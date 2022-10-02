@@ -1,0 +1,1 @@
+print("to check whether given year is leap year or not")
